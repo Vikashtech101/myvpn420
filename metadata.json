@@ -1,0 +1,5 @@
+{
+  "name": "Secure VPN Connect",
+  "description": "A VPN service application that allows users to securely connect to the internet via encrypted servers located around the world, mask their IP address, and protect their data.",
+  "requestFramePermissions": []
+}
